@@ -1,0 +1,14 @@
+c:\Kani\MoneyLender\MoneyLenderBackend\bin\Debug\netcoreapp2.1\MoneyLenderBackend.deps.json
+c:\Kani\MoneyLender\MoneyLenderBackend\bin\Debug\netcoreapp2.1\MoneyLenderBackend.runtimeconfig.json
+c:\Kani\MoneyLender\MoneyLenderBackend\bin\Debug\netcoreapp2.1\MoneyLenderBackend.runtimeconfig.dev.json
+c:\Kani\MoneyLender\MoneyLenderBackend\bin\Debug\netcoreapp2.1\MoneyLenderBackend.dll
+c:\Kani\MoneyLender\MoneyLenderBackend\bin\Debug\netcoreapp2.1\MoneyLenderBackend.pdb
+c:\Kani\MoneyLender\MoneyLenderBackend\obj\Debug\netcoreapp2.1\MoneyLenderBackend.csprojAssemblyReference.cache
+c:\Kani\MoneyLender\MoneyLenderBackend\obj\Debug\netcoreapp2.1\MoneyLenderBackend.csproj.CoreCompileInputs.cache
+c:\Kani\MoneyLender\MoneyLenderBackend\obj\Debug\netcoreapp2.1\MoneyLenderBackend.RazorAssemblyInfo.cache
+c:\Kani\MoneyLender\MoneyLenderBackend\obj\Debug\netcoreapp2.1\MoneyLenderBackend.RazorAssemblyInfo.cs
+c:\Kani\MoneyLender\MoneyLenderBackend\obj\Debug\netcoreapp2.1\MoneyLenderBackend.AssemblyInfoInputs.cache
+c:\Kani\MoneyLender\MoneyLenderBackend\obj\Debug\netcoreapp2.1\MoneyLenderBackend.AssemblyInfo.cs
+c:\Kani\MoneyLender\MoneyLenderBackend\obj\Debug\netcoreapp2.1\MoneyLenderBackend.RazorTargetAssemblyInfo.cache
+c:\Kani\MoneyLender\MoneyLenderBackend\obj\Debug\netcoreapp2.1\MoneyLenderBackend.dll
+c:\Kani\MoneyLender\MoneyLenderBackend\obj\Debug\netcoreapp2.1\MoneyLenderBackend.pdb
